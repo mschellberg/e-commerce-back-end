@@ -21,7 +21,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Videos
 [Find All](https://user-images.githubusercontent.com/71852138/110484883-14ba7080-80b9-11eb-8103-c0f8a819798b.mp4) \
 [Find One](https://user-images.githubusercontent.com/71852138/110485660-e25d4300-80b9-11eb-9dd0-9dd5c02277d2.mp4) \
-[Post, Update, Delete]()
+[Post, Update, Delete](https://user-images.githubusercontent.com/71852138/110488504-88aa4800-80bc-11eb-9dd7-6cd48370a0eb.mp4)
 
 
 
