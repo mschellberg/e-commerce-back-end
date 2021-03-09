@@ -70,10 +70,11 @@ router.put('/:id', (req, res) => {
       id: req.params.id,
     }
   })
-  .then((tag) => {
-    return Tag.findAll({ where: { tag_id: req.params.id } }
-      );
-  });
+  .then(dbTagData => res.json(dbTagData))
+  .catch(err => {
+    console.log(err);
+    res.status(500).json(err);
+  })
 });
 
 router.delete('/:id', (req, res) => {
